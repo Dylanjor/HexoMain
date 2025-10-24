@@ -1,8 +1,8 @@
 ---
-title: For-Vue
+title: Vue
 date: 2020-12-20 21:05:40
 tags: Vue
-category: 前端
+category: VUE
 # excerpt: 学习前端使我快乐 # 摘要
 index_img: /img/maojingzhang.jpg
 banner_img: /img/oumeixiaozhen.jpg

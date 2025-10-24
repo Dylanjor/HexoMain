@@ -1,8 +1,8 @@
 ---
-title: ComingOrPast
+title: OLD PRO
 date: 2020-12-20 21:17:39
 tags: ForMe
-category: 表结构
+category: SQL SERVER
 index_img: /img/IronMan.jpg
 banner_img: /img/timg (12).jpg
 ---

@@ -1,8 +1,8 @@
 ---
-title: Hexo+GitHub打造属于自己的博客
+title: Hexo + GitHub = 博客
 date: 2020-12-24 00:25:35
 index_img: /img/bearwinnie.jpg
-category: [Hexo,GitHub]
+category: Git
 banner_img: /img/timg.jpg
 tags: 
     - Hexo

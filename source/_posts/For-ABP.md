@@ -1,9 +1,9 @@
 ---
-title: For-ABP
+title: ABP
 date: 2020-12-20 20:53:16
 tags: [ABP, .net Core]
 category: C#
-index_img: https://rmt.dogedoge.com/fetch/fluid/storage/bg/4xvpqo.png?w=1920&fmt=webp
+index_img: /img/17df5759880911ebb6edd017c2d2eca2.jpg
 banner_img: /img/timg (23).jpg
 ---
 

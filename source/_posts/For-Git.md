@@ -1,11 +1,12 @@
 ---
-title: For-Git
+title: Git
 date: 2020-12-20 20:33:26
 tags: 
     - Git
     - MarkDown
 category: Git
 index_img: /img/dijia.jpg
+banner_img: /img/18b0822d21594df68f3881e70ace6206.png
 ---
 # Git基础常用命令
 
